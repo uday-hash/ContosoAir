@@ -12,7 +12,7 @@
             "value": "web" // TODO: Fill in parameter value
         },
         "p_comosdb_name": {
-            "value": "db" // TODO: Fill in parameter value
+            "value": "dbtestdb" // TODO: Fill in parameter value
         }
     }
 }
